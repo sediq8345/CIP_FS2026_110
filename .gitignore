@@ -1,0 +1,19 @@
+# Data files - too large and not to be shared publicly
+*.csv
+*.xlsx
+*.xls
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables (API keys, passwords)
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
